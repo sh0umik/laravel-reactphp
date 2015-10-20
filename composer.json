@@ -1,15 +1,15 @@
 {
-    "name": "nazo/laravel-reactphp",
+    "name": "fahim/lumen-reactphp",
     "type": "library",
-    "description": "ReactPHP Server On Laravel 5.0",
-    "keywords": ["ReactPHP", "Laravel", "server"],
-    "homepage": "http://github.com/nazo/laravel-reactphp",
+    "description": "ReactPHP Server On Lumen 5.0",
+    "keywords": ["ReactPHP", "Lumen", "server"],
+    "homepage": "http://github.com/sh0umik/laravel-reactphp",
     "license": "MIT",
     "authors": [
         {
-            "name": "Takuya Sato",
-            "email": "takuya0219@gmail.com",
-            "homepage": "https://github.com/nazo"
+            "name": "Fahim Shariar",
+            "email": "thebdcoder@gmail.com",
+            "homepage": "https://github.com/sh0umik"
         }
     ],
     "require": {
